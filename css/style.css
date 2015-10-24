@@ -1,0 +1,30 @@
+img{
+	opacity: 1;
+	border: solid white 10px;
+}.btn{
+	margin-right: 10px;
+}h1 ,h3 ,p, h2, strong{
+	font-family: sans-serif;
+	color: Black;
+}a{
+	font-family: Verdana;
+	text-decoration: bold bold;
+	font-size: 16px;
+}.Info, .Read, .pRead, .Watch{
+	font-family: sans-serif;
+	font-size: 16px;
+}a{
+	color: Black;
+	text-decoration: bold;
+}ul.bks{
+	margin-right: 10px;
+	margin-left: 50px;
+	padding-left: 15px;
+	padding-top: 5px;
+}button{
+	border: solid white 2px;
+}#old, #new{
+	height: 440px;
+	width: 400px;
+	overflow: scroll;
+}
